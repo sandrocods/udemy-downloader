@@ -24,7 +24,7 @@
 4. Temukan kata X-Udemy-Authorization: Bearer 
 5. Perlu diingat yang hanya dicopy yang belakang Bearer saja 
 
-### **Cara penggunaan **
+### Cara penggunaan
 
 1. Silahkan Git repository ini 
 2. Kemudian cd sesuai folder hasil git
