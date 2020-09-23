@@ -1,6 +1,7 @@
-![carbon (1)](https://user-images.githubusercontent.com/59155826/94040328-015d6680-fdf3-11ea-9e8d-00fcd0400bbe.png)
 
 ### Udemy Course Downloader - PHP CLI Base
+![carbon (1)](https://user-images.githubusercontent.com/59155826/94040328-015d6680-fdf3-11ea-9e8d-00fcd0400bbe.png)
+
 **Dengan mendownload video anda tidak perlu terkoneksi internet untuk melihat ulang course yang sudah pernah dilihat ^_^**
 
 ### Fitur
@@ -22,5 +23,14 @@
 
 4. Temukan kata X-Udemy-Authorization: Bearer 
 5. Perlu diingat yang hanya dicopy yang belakang Bearer saja 
+
+### **Cara penggunaan **
+
+1. Silahkan Git repository ini 
+2. Kemudian cd sesuai folder hasil git
+3. php run.php
+
+** Token : isikan dengan token hasil dari login diatas**
+
 
 ### Happy using tools | Jika ada error submit issues saja 
